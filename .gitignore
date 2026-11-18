@@ -1,4 +1,10 @@
-.venv/
+.env
 __pycache__/
-*.pyc
-.vscode/
+venv312/
+dados/jogo.db
+dados/temp/
+sprites/*.png
+sprites/*.gif
+dados/yolo11n.pt
+Pipfile
+Pipfile.lock

@@ -1,0 +1,3124 @@
+{
+  "bichinhos": [
+    {
+      "id": "abissalor_mae_dos_oceanos",
+      "nome": "Abissalor, Mãe dos Oceanos",
+      "elemento": "agua",
+      "raridade": "mitico",
+      "descricao": "Sua canção move as marés e embala todos os mares.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "orelhas",
+        "padrao": "gradiente",
+        "cor_principal": "#5ad1e6",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "leviata_lunar",
+      "nome": "Leviatã Lunar",
+      "elemento": "agua",
+      "raridade": "mitico",
+      "descricao": "Nada entre ondas e estrelas, puxando a lua pela maré.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "aureola",
+        "padrao": "listras",
+        "cor_principal": "#26c6da",
+        "cor_secundaria": "#1a237e"
+      }
+    },
+    {
+      "id": "tsunamelia",
+      "nome": "Tsunamélia",
+      "elemento": "agua",
+      "raridade": "mitico",
+      "descricao": "Uma onda do tamanho de um sonho que nunca quebra.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "ciclope",
+        "boca": "aberta",
+        "acessorio": "aureola",
+        "padrao": "listras",
+        "cor_principal": "#29b6f6",
+        "cor_secundaria": "#ffe082"
+      }
+    },
+    {
+      "id": "voltaryon_tempestade_viva",
+      "nome": "Voltaryon, Tempestade Viva",
+      "elemento": "eletrico",
+      "raridade": "mitico",
+      "descricao": "Quando ele pisca, o céu inteiro troca de lugar.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "brilhantes",
+        "boca": "lingua",
+        "acessorio": "aureola",
+        "padrao": "estrelado",
+        "cor_principal": "#fdd835",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "relampagor_omega",
+      "nome": "Relampagor Ômega",
+      "elemento": "eletrico",
+      "raridade": "mitico",
+      "descricao": "O primeiro e o último raio de cada tempestade.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "bravos",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "gradiente",
+        "cor_principal": "#ffcf3f",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "ursarcturus_fera_das_estrelas",
+      "nome": "Ursarcturus, Fera das Estrelas",
+      "elemento": "fera",
+      "raridade": "mitico",
+      "descricao": "Sua pelagem guarda constelações inteiras.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "brilhantes",
+        "boca": "neutra",
+        "acessorio": "asas",
+        "padrao": "gradiente",
+        "cor_principal": "#f2c28a",
+        "cor_secundaria": "#8d4e2a"
+      }
+    },
+    {
+      "id": "behemotor_primordial",
+      "nome": "Behemotor Primordial",
+      "elemento": "fera",
+      "raridade": "mitico",
+      "descricao": "Quando ele caminha, as montanhas escolhem novos lugares.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "brilhantes",
+        "boca": "neutra",
+        "acessorio": "coroa",
+        "padrao": "liso",
+        "cor_principal": "#e57f4a",
+        "cor_secundaria": "#4e342e"
+      }
+    },
+    {
+      "id": "cinzarok_devorador_de_eras",
+      "nome": "Cinzarok, Devorador de Eras",
+      "elemento": "fogo",
+      "raridade": "mitico",
+      "descricao": "Cada era que acaba vira cinza no seu rastro.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "ciclope",
+        "boca": "neutra",
+        "acessorio": "asas",
+        "padrao": "manchas",
+        "cor_principal": "#ef5350",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "vulcanor_primeiro_fogo",
+      "nome": "Vulcanor Primeiro Fogo",
+      "elemento": "fogo",
+      "raridade": "mitico",
+      "descricao": "Foi a primeira chama do mundo e nunca apagou.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "orelhas",
+        "padrao": "manchas",
+        "cor_principal": "#ff7043",
+        "cor_secundaria": "#fff176"
+      }
+    },
+    {
+      "id": "aurora_incandescente",
+      "nome": "Aurora Incandescente",
+      "elemento": "fogo",
+      "raridade": "mitico",
+      "descricao": "Seu brilho tinge o céu de brasa e acorda estrelas.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "liso",
+        "cor_principal": "#ff4d4d",
+        "cor_secundaria": "#7f1d1d"
+      }
+    },
+    {
+      "id": "arcanomicon",
+      "nome": "Arcanomicon",
+      "elemento": "mistico",
+      "raridade": "mitico",
+      "descricao": "Um livro vivo cujas páginas reescrevem o destino.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "brilhantes",
+        "boca": "neutra",
+        "acessorio": "asas",
+        "padrao": "manchas",
+        "cor_principal": "#8e7cf0",
+        "cor_secundaria": "#1a237e"
+      }
+    },
+    {
+      "id": "luna_infinita_tecela_dos_sonhos",
+      "nome": "Luna Infinita, Tecelã dos Sonhos",
+      "elemento": "mistico",
+      "raridade": "mitico",
+      "descricao": "Tece o sono do mundo com fios de luar.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "brilhantes",
+        "boca": "dentes",
+        "acessorio": "coroa",
+        "padrao": "manchas",
+        "cor_principal": "#c58bff",
+        "cor_secundaria": "#ffd54f"
+      }
+    },
+    {
+      "id": "gaiaroth_avo_das_florestas",
+      "nome": "Gaiaroth, Avó das Florestas",
+      "elemento": "natureza",
+      "raridade": "mitico",
+      "descricao": "Dizem que cada floresta do mundo brotou de um suspiro dela.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "brilhantes",
+        "boca": "neutra",
+        "acessorio": "folhas",
+        "padrao": "listras",
+        "cor_principal": "#6cc77a",
+        "cor_secundaria": "#8e5a3c"
+      }
+    },
+    {
+      "id": "verdantor_eterno",
+      "nome": "Verdantor Eterno",
+      "elemento": "natureza",
+      "raridade": "mitico",
+      "descricao": "Seu coração é uma semente que já viu mil primaveras nascerem.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "ciclope",
+        "boca": "lingua",
+        "acessorio": "chifres",
+        "padrao": "estrelado",
+        "cor_principal": "#7ed957",
+        "cor_secundaria": "#f2c94c"
+      }
+    },
+    {
+      "id": "sylvanimus_primordial",
+      "nome": "Sylvanimus Primordial",
+      "elemento": "natureza",
+      "raridade": "mitico",
+      "descricao": "Antes do primeiro bosque, ele já sussurrava para as raízes.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "brilhantes",
+        "boca": "aberta",
+        "acessorio": "asas",
+        "padrao": "gradiente",
+        "cor_principal": "#2e8b57",
+        "cor_secundaria": "#d4f08a"
+      }
+    },
+    {
+      "id": "rei_mare_alta",
+      "nome": "Rei Maré Alta",
+      "elemento": "agua",
+      "raridade": "lendario",
+      "descricao": "Quando ele ri, a praia inteira desaparece.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "coroa",
+        "padrao": "listras",
+        "cor_principal": "#7fd6ff",
+        "cor_secundaria": "#283593"
+      }
+    },
+    {
+      "id": "baleia_das_estrelas",
+      "nome": "Baleia das Estrelas",
+      "elemento": "agua",
+      "raridade": "lendario",
+      "descricao": "Canta no fundo do mar e o céu responde.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "raios",
+        "padrao": "manchas",
+        "cor_principal": "#26c6da",
+        "cor_secundaria": "#1a237e"
+      }
+    },
+    {
+      "id": "sereia_cascata",
+      "nome": "Sereia Cascata",
+      "elemento": "agua",
+      "raridade": "lendario",
+      "descricao": "Seus cabelos viram quedas-d'água ao amanhecer.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "aureola",
+        "padrao": "gradiente",
+        "cor_principal": "#5ad1e6",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "serpente_marulho",
+      "nome": "Serpente Marulho",
+      "elemento": "agua",
+      "raridade": "lendario",
+      "descricao": "Enrola-se nos navios só para ouvir histórias.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "aureola",
+        "padrao": "gradiente",
+        "cor_principal": "#7fd6ff",
+        "cor_secundaria": "#283593"
+      }
+    },
+    {
+      "id": "tartaruga_do_tempo",
+      "nome": "Tartaruga do Tempo",
+      "elemento": "agua",
+      "raridade": "lendario",
+      "descricao": "Carrega um oceano inteiro nas costas e nunca tem pressa.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "aureola",
+        "padrao": "gradiente",
+        "cor_principal": "#5ad1e6",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "trovao_tita",
+      "nome": "Trovão Titã",
+      "elemento": "eletrico",
+      "raridade": "lendario",
+      "descricao": "Cada passo seu é um estrondo que cruza o horizonte.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "brilhantes",
+        "boca": "aberta",
+        "acessorio": "raios",
+        "padrao": "manchas",
+        "cor_principal": "#e6ee9c",
+        "cor_secundaria": "#ad1457"
+      }
+    },
+    {
+      "id": "dinamo_dourado",
+      "nome": "Dínamo Dourado",
+      "elemento": "eletrico",
+      "raridade": "lendario",
+      "descricao": "Gira sem parar e ilumina cidades inteiras.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "listras",
+        "cor_principal": "#e6ee9c",
+        "cor_secundaria": "#ad1457"
+      }
+    },
+    {
+      "id": "coruja_corrente",
+      "nome": "Coruja Corrente",
+      "elemento": "eletrico",
+      "raridade": "lendario",
+      "descricao": "Vê tudo no escuro e carrega a energia da noite.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "brilhantes",
+        "boca": "aberta",
+        "acessorio": "raios",
+        "padrao": "estrelado",
+        "cor_principal": "#ffee58",
+        "cor_secundaria": "#e65100"
+      }
+    },
+    {
+      "id": "enguia_estelar",
+      "nome": "Enguia Estelar",
+      "elemento": "eletrico",
+      "raridade": "lendario",
+      "descricao": "Nada pelo céu deixando um rastro de eletricidade.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "brilhantes",
+        "boca": "neutra",
+        "acessorio": "chifres",
+        "padrao": "estrelado",
+        "cor_principal": "#d4ff4a",
+        "cor_secundaria": "#455a64"
+      }
+    },
+    {
+      "id": "rei_raio",
+      "nome": "Rei Raio",
+      "elemento": "eletrico",
+      "raridade": "lendario",
+      "descricao": "Sua coroa cintila e faz todos os cabelos arrepiarem.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "raios",
+        "padrao": "listras",
+        "cor_principal": "#f7e04a",
+        "cor_secundaria": "#1565c0"
+      }
+    },
+    {
+      "id": "leao_eclipse",
+      "nome": "Leão Eclipse",
+      "elemento": "fera",
+      "raridade": "lendario",
+      "descricao": "Sua juba apaga o sol e o rugido o acende de volta.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "brilhantes",
+        "boca": "sorriso",
+        "acessorio": "aureola",
+        "padrao": "listras",
+        "cor_principal": "#a1887f",
+        "cor_secundaria": "#3e2723"
+      }
+    },
+    {
+      "id": "lobo_aurora",
+      "nome": "Lobo Aurora",
+      "elemento": "fera",
+      "raridade": "lendario",
+      "descricao": "Uivando, pinta o céu de verde e rosa.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "brilhantes",
+        "boca": "sorriso",
+        "acessorio": "orelhas",
+        "padrao": "gradiente",
+        "cor_principal": "#8d6e63",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "grifo_real",
+      "nome": "Grifo Real",
+      "elemento": "fera",
+      "raridade": "lendario",
+      "descricao": "Metade águia, metade leão, inteiro orgulho.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "coroa",
+        "padrao": "listras",
+        "cor_principal": "#f2c28a",
+        "cor_secundaria": "#8d4e2a"
+      }
+    },
+    {
+      "id": "tigre_de_mil_garras",
+      "nome": "Tigre de Mil Garras",
+      "elemento": "fera",
+      "raridade": "lendario",
+      "descricao": "Ninguém sabe contar, e ninguém quer.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "brilhantes",
+        "boca": "aberta",
+        "acessorio": "chifres",
+        "padrao": "estrelado",
+        "cor_principal": "#a1887f",
+        "cor_secundaria": "#3e2723"
+      }
+    },
+    {
+      "id": "mamute_montanha",
+      "nome": "Mamute Montanha",
+      "elemento": "fera",
+      "raridade": "lendario",
+      "descricao": "Caminha pelo gelo como se fosse uma serra viva.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "asas",
+        "padrao": "estrelado",
+        "cor_principal": "#e57f4a",
+        "cor_secundaria": "#4e342e"
+      }
+    },
+    {
+      "id": "dragao_de_brasa",
+      "nome": "Dragão de Brasa",
+      "elemento": "fogo",
+      "raridade": "lendario",
+      "descricao": "Cochila sobre tesouros e solta fumaça ao sonhar.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "brilhantes",
+        "boca": "sorriso",
+        "acessorio": "orelhas",
+        "padrao": "listras",
+        "cor_principal": "#ef5350",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "salamandra_solar",
+      "nome": "Salamandra Solar",
+      "elemento": "fogo",
+      "raridade": "lendario",
+      "descricao": "Nasceu de uma chama que o sol esqueceu na terra.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "brilhantes",
+        "boca": "neutra",
+        "acessorio": "raios",
+        "padrao": "liso",
+        "cor_principal": "#ff9800",
+        "cor_secundaria": "#4e1b0e"
+      }
+    },
+    {
+      "id": "rei_magma",
+      "nome": "Rei Magma",
+      "elemento": "fogo",
+      "raridade": "lendario",
+      "descricao": "Seu trono derrete todo mundo que senta nele.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "brilhantes",
+        "boca": "lingua",
+        "acessorio": "coroa",
+        "padrao": "liso",
+        "cor_principal": "#ffd166",
+        "cor_secundaria": "#e65100"
+      }
+    },
+    {
+      "id": "rainha_labareda",
+      "nome": "Rainha Labareda",
+      "elemento": "fogo",
+      "raridade": "lendario",
+      "descricao": "Dança em chamas e ninguém ousa interromper.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "brilhantes",
+        "boca": "aberta",
+        "acessorio": "coroa",
+        "padrao": "estrelado",
+        "cor_principal": "#ff7043",
+        "cor_secundaria": "#fff176"
+      }
+    },
+    {
+      "id": "fenixira",
+      "nome": "Fenixira",
+      "elemento": "fogo",
+      "raridade": "lendario",
+      "descricao": "Renasce das cinzas sempre mais irritada.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "bravos",
+        "boca": "neutra",
+        "acessorio": "antenas",
+        "padrao": "liso",
+        "cor_principal": "#ef5350",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "mago_meia_noite",
+      "nome": "Mago Meia-Noite",
+      "elemento": "mistico",
+      "raridade": "lendario",
+      "descricao": "Só aparece quando o relógio bate doze e some no décimo terceiro.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "chifres",
+        "padrao": "liso",
+        "cor_principal": "#7e57c2",
+        "cor_secundaria": "#ffe082"
+      }
+    },
+    {
+      "id": "esfinge_estelar",
+      "nome": "Esfinge Estelar",
+      "elemento": "mistico",
+      "raridade": "lendario",
+      "descricao": "Propõe enigmas escritos nas constelações.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "brilhantes",
+        "boca": "lingua",
+        "acessorio": "coroa",
+        "padrao": "manchas",
+        "cor_principal": "#c58bff",
+        "cor_secundaria": "#ffd54f"
+      }
+    },
+    {
+      "id": "oraculo_cristalino",
+      "nome": "Oráculo Cristalino",
+      "elemento": "mistico",
+      "raridade": "lendario",
+      "descricao": "Vê o futuro, mas só conta se perguntarem direito.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "brilhantes",
+        "boca": "sorriso",
+        "acessorio": "raios",
+        "padrao": "liso",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "dama_do_eclipse",
+      "nome": "Dama do Eclipse",
+      "elemento": "mistico",
+      "raridade": "lendario",
+      "descricao": "Esconde o sol com um leque e sorri.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "nenhum",
+        "padrao": "gradiente",
+        "cor_principal": "#a389f4",
+        "cor_secundaria": "#00695c"
+      }
+    },
+    {
+      "id": "alquimista_astral",
+      "nome": "Alquimista Astral",
+      "elemento": "mistico",
+      "raridade": "lendario",
+      "descricao": "Transforma estrelas cadentes em poções.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "brilhantes",
+        "boca": "lingua",
+        "acessorio": "coroa",
+        "padrao": "liso",
+        "cor_principal": "#f48fb1",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "carvalho_trovejante",
+      "nome": "Carvalho Trovejante",
+      "elemento": "natureza",
+      "raridade": "lendario",
+      "descricao": "Suas folhas estalam como trovão e atraem raios só para fazer sombra.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "bravos",
+        "boca": "neutra",
+        "acessorio": "chifres",
+        "padrao": "gradiente",
+        "cor_principal": "#5fbf4a",
+        "cor_secundaria": "#2e7d32"
+      }
+    },
+    {
+      "id": "imperatriz_samambaia",
+      "nome": "Imperatriz Samambaia",
+      "elemento": "natureza",
+      "raridade": "lendario",
+      "descricao": "Governa o sub-bosque com leques verdes e muita elegância.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "folhas",
+        "padrao": "manchas",
+        "cor_principal": "#4caf8f",
+        "cor_secundaria": "#e8f5a3"
+      }
+    },
+    {
+      "id": "cipoal_dourado",
+      "nome": "Cipoal Dourado",
+      "elemento": "natureza",
+      "raridade": "lendario",
+      "descricao": "Seus cipós brilham como ouro e abraçam quem merece.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "raios",
+        "padrao": "manchas",
+        "cor_principal": "#b5d84a",
+        "cor_secundaria": "#4f7a1f"
+      }
+    },
+    {
+      "id": "sequoiador",
+      "nome": "Sequoiador",
+      "elemento": "natureza",
+      "raridade": "lendario",
+      "descricao": "Tão alto que as nuvens pedem licença para passar.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "folhas",
+        "padrao": "gradiente",
+        "cor_principal": "#6cc77a",
+        "cor_secundaria": "#8e5a3c"
+      }
+    },
+    {
+      "id": "guardiao_do_polen",
+      "nome": "Guardião do Pólen",
+      "elemento": "natureza",
+      "raridade": "lendario",
+      "descricao": "Espalha sorte em forma de pólen dourado por todo o jardim.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "brilhantes",
+        "boca": "neutra",
+        "acessorio": "raios",
+        "padrao": "listras",
+        "cor_principal": "#b5d84a",
+        "cor_secundaria": "#4f7a1f"
+      }
+    },
+    {
+      "id": "polvo_pirata",
+      "nome": "Polvo Pirata",
+      "elemento": "agua",
+      "raridade": "epico",
+      "descricao": "Tem oito braços e sete tesouros escondidos.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "manchas",
+        "cor_principal": "#80deea",
+        "cor_secundaria": "#4527a0"
+      }
+    },
+    {
+      "id": "agua_viva_aurora",
+      "nome": "Água-Viva Aurora",
+      "elemento": "agua",
+      "raridade": "epico",
+      "descricao": "Brilha em cores de amanhecer sob as ondas.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "chifres",
+        "padrao": "gradiente",
+        "cor_principal": "#4dd0c4",
+        "cor_secundaria": "#1e4e8c"
+      }
+    },
+    {
+      "id": "golfinho_turbilhao",
+      "nome": "Golfinho Turbilhão",
+      "elemento": "agua",
+      "raridade": "epico",
+      "descricao": "Faz redemoinhos só por diversão.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "brilhantes",
+        "boca": "dentes",
+        "acessorio": "antenas",
+        "padrao": "liso",
+        "cor_principal": "#4dd0c4",
+        "cor_secundaria": "#1e4e8c"
+      }
+    },
+    {
+      "id": "caranguejo_capitao",
+      "nome": "Caranguejo Capitão",
+      "elemento": "agua",
+      "raridade": "epico",
+      "descricao": "Comanda a praia andando de lado.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "ciclope",
+        "boca": "neutra",
+        "acessorio": "coroa",
+        "padrao": "estrelado",
+        "cor_principal": "#5ad1e6",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "cavalo_marinho_real",
+      "nome": "Cavalo-Marinho Real",
+      "elemento": "agua",
+      "raridade": "epico",
+      "descricao": "Cavalga as correntes com a coroa de coral.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "coroa",
+        "padrao": "estrelado",
+        "cor_principal": "#64b5f6",
+        "cor_secundaria": "#00695c"
+      }
+    },
+    {
+      "id": "ourico_eletrizante",
+      "nome": "Ouriço Eletrizante",
+      "elemento": "eletrico",
+      "raridade": "epico",
+      "descricao": "Seus espinhos estalam a cada abraço.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "felizes",
+        "boca": "lingua",
+        "acessorio": "coroa",
+        "padrao": "gradiente",
+        "cor_principal": "#ffd600",
+        "cor_secundaria": "#37474f"
+      }
+    },
+    {
+      "id": "robo_relampago",
+      "nome": "Robô Relâmpago",
+      "elemento": "eletrico",
+      "raridade": "epico",
+      "descricao": "Feito de sucata e de muita voltagem.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "asas",
+        "padrao": "liso",
+        "cor_principal": "#fff176",
+        "cor_secundaria": "#6a1b9a"
+      }
+    },
+    {
+      "id": "lampada_magica",
+      "nome": "Lâmpada Mágica",
+      "elemento": "eletrico",
+      "raridade": "epico",
+      "descricao": "Realiza desejos, desde que sejam claros.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "chifres",
+        "padrao": "liso",
+        "cor_principal": "#f7e04a",
+        "cor_secundaria": "#1565c0"
+      }
+    },
+    {
+      "id": "capacitor_bravo",
+      "nome": "Capacitor Bravo",
+      "elemento": "eletrico",
+      "raridade": "epico",
+      "descricao": "Guarda energia até explodir de raiva.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "ciclope",
+        "boca": "dentes",
+        "acessorio": "raios",
+        "padrao": "listras",
+        "cor_principal": "#d4ff4a",
+        "cor_secundaria": "#455a64"
+      }
+    },
+    {
+      "id": "besouro_voltagem",
+      "nome": "Besouro Voltagem",
+      "elemento": "eletrico",
+      "raridade": "epico",
+      "descricao": "Voa zumbindo em alta tensão.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "brilhantes",
+        "boca": "lingua",
+        "acessorio": "chifres",
+        "padrao": "liso",
+        "cor_principal": "#fdd835",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "urso_estrondo",
+      "nome": "Urso Estrondo",
+      "elemento": "fera",
+      "raridade": "epico",
+      "descricao": "Um abraço dele sacode a floresta inteira.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "aureola",
+        "padrao": "listras",
+        "cor_principal": "#e0a96d",
+        "cor_secundaria": "#6d4c41"
+      }
+    },
+    {
+      "id": "aguia_altiva",
+      "nome": "Águia Altiva",
+      "elemento": "fera",
+      "raridade": "epico",
+      "descricao": "Voa tão alto que cumprimenta as estrelas.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "ciclope",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#e0a96d",
+        "cor_secundaria": "#6d4c41"
+      }
+    },
+    {
+      "id": "pantera_penumbra",
+      "nome": "Pantera Penumbra",
+      "elemento": "fera",
+      "raridade": "epico",
+      "descricao": "Some na sombra e só deixa os olhos acesos.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "ciclope",
+        "boca": "aberta",
+        "acessorio": "raios",
+        "padrao": "liso",
+        "cor_principal": "#8d6e63",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "javali_furacao",
+      "nome": "Javali Furacão",
+      "elemento": "fera",
+      "raridade": "epico",
+      "descricao": "Atravessa tudo em uma linha reta.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "ciclope",
+        "boca": "neutra",
+        "acessorio": "coroa",
+        "padrao": "gradiente",
+        "cor_principal": "#f2c28a",
+        "cor_secundaria": "#8d4e2a"
+      }
+    },
+    {
+      "id": "rinoceronte_rochedo",
+      "nome": "Rinoceronte Rochedo",
+      "elemento": "fera",
+      "raridade": "epico",
+      "descricao": "Duro como pedra e teimoso como duas.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "chifres",
+        "padrao": "gradiente",
+        "cor_principal": "#8d6e63",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "chamaleao_furioso",
+      "nome": "Chamaleão Furioso",
+      "elemento": "fogo",
+      "raridade": "epico",
+      "descricao": "Muda de cor conforme o humor, sempre entre vermelho e laranja.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "listras",
+        "cor_principal": "#ff8a3d",
+        "cor_secundaria": "#5d2a8a"
+      }
+    },
+    {
+      "id": "ticao_lorde",
+      "nome": "Tição Lorde",
+      "elemento": "fogo",
+      "raridade": "epico",
+      "descricao": "Comanda carvões e braseiros com mão de ferro.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "ciclope",
+        "boca": "dentes",
+        "acessorio": "coroa",
+        "padrao": "manchas",
+        "cor_principal": "#ff9800",
+        "cor_secundaria": "#4e1b0e"
+      }
+    },
+    {
+      "id": "vulcaozinho_real",
+      "nome": "Vulcãozinho Real",
+      "elemento": "fogo",
+      "raridade": "epico",
+      "descricao": "Pequeno, mas já tem erupção de nobre.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "ciclope",
+        "boca": "neutra",
+        "acessorio": "coroa",
+        "padrao": "estrelado",
+        "cor_principal": "#ffd166",
+        "cor_secundaria": "#e65100"
+      }
+    },
+    {
+      "id": "gargula_de_brasa",
+      "nome": "Gárgula de Brasa",
+      "elemento": "fogo",
+      "raridade": "epico",
+      "descricao": "Vigia castelos com olhos de carvão aceso.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "brilhantes",
+        "boca": "lingua",
+        "acessorio": "raios",
+        "padrao": "manchas",
+        "cor_principal": "#ff4d4d",
+        "cor_secundaria": "#7f1d1d"
+      }
+    },
+    {
+      "id": "cavaleiro_faisca",
+      "nome": "Cavaleiro Faísca",
+      "elemento": "fogo",
+      "raridade": "epico",
+      "descricao": "Cavalga um rastro de fagulhas em cada batalha.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "felizes",
+        "boca": "dentes",
+        "acessorio": "aureola",
+        "padrao": "manchas",
+        "cor_principal": "#e53935",
+        "cor_secundaria": "#ffe082"
+      }
+    },
+    {
+      "id": "bruxa_borbulhante",
+      "nome": "Bruxa Borbulhante",
+      "elemento": "mistico",
+      "raridade": "epico",
+      "descricao": "Seu caldeirão borbulha receitas impossíveis.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "brilhantes",
+        "boca": "sorriso",
+        "acessorio": "coroa",
+        "padrao": "liso",
+        "cor_principal": "#7e57c2",
+        "cor_secundaria": "#ffe082"
+      }
+    },
+    {
+      "id": "coruja_cartomante",
+      "nome": "Coruja Cartomante",
+      "elemento": "mistico",
+      "raridade": "epico",
+      "descricao": "Embaralha cartas com as asas e prevê chuva de penas.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "brilhantes",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "estrelado",
+        "cor_principal": "#9575cd",
+        "cor_secundaria": "#f8bbd0"
+      }
+    },
+    {
+      "id": "duende_dourado",
+      "nome": "Duende Dourado",
+      "elemento": "mistico",
+      "raridade": "epico",
+      "descricao": "Esconde ouro de verdade e brincadeira de mentira.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "raios",
+        "padrao": "gradiente",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "espectro_estrelado",
+      "nome": "Espectro Estrelado",
+      "elemento": "mistico",
+      "raridade": "epico",
+      "descricao": "Atravessa paredes deixando poeira de estrelas.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "aureola",
+        "padrao": "gradiente",
+        "cor_principal": "#c58bff",
+        "cor_secundaria": "#ffd54f"
+      }
+    },
+    {
+      "id": "sombra_sabia",
+      "nome": "Sombra Sábia",
+      "elemento": "mistico",
+      "raridade": "epico",
+      "descricao": "Sabe segredos que nem a luz conhece.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "ciclope",
+        "boca": "lingua",
+        "acessorio": "aureola",
+        "padrao": "listras",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "cogumelo_real",
+      "nome": "Cogumelo Real",
+      "elemento": "natureza",
+      "raridade": "epico",
+      "descricao": "Usa um chapéu de rei e exige reverência dos esporos.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "ciclope",
+        "boca": "neutra",
+        "acessorio": "coroa",
+        "padrao": "estrelado",
+        "cor_principal": "#3fae7a",
+        "cor_secundaria": "#1b5e46"
+      }
+    },
+    {
+      "id": "ipe_faisca",
+      "nome": "Ipê Faísca",
+      "elemento": "natureza",
+      "raridade": "epico",
+      "descricao": "Floresce em amarelo vivo e solta fagulhas de pétalas.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "nenhum",
+        "padrao": "listras",
+        "cor_principal": "#a3d977",
+        "cor_secundaria": "#c2185b"
+      }
+    },
+    {
+      "id": "baoba_sabio",
+      "nome": "Baobá Sábio",
+      "elemento": "natureza",
+      "raridade": "epico",
+      "descricao": "Guarda séculos de histórias dentro do tronco largo.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "brilhantes",
+        "boca": "aberta",
+        "acessorio": "coroa",
+        "padrao": "gradiente",
+        "cor_principal": "#3fae7a",
+        "cor_secundaria": "#1b5e46"
+      }
+    },
+    {
+      "id": "vitoria_regia_lunar",
+      "nome": "Vitória-Régia Lunar",
+      "elemento": "natureza",
+      "raridade": "epico",
+      "descricao": "Flutua de noite e carrega a luz da lua nas folhas.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "ciclope",
+        "boca": "aberta",
+        "acessorio": "coroa",
+        "padrao": "gradiente",
+        "cor_principal": "#b5d84a",
+        "cor_secundaria": "#4f7a1f"
+      }
+    },
+    {
+      "id": "bambuzilla",
+      "nome": "Bambuzilla",
+      "elemento": "natureza",
+      "raridade": "epico",
+      "descricao": "Cresce dez metros por dia e ainda reclama de fome.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "listras",
+        "cor_principal": "#4caf8f",
+        "cor_secundaria": "#e8f5a3"
+      }
+    },
+    {
+      "id": "pinguim_pingado",
+      "nome": "Pinguim Pingado",
+      "elemento": "agua",
+      "raridade": "raro",
+      "descricao": "Escorrega pela vida e sempre cai em pé.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "brilhantes",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "estrelado",
+        "cor_principal": "#5ad1e6",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "lontra_ludica",
+      "nome": "Lontra Lúdica",
+      "elemento": "agua",
+      "raridade": "raro",
+      "descricao": "Brinca com pedras e rouba o dia de todo mundo.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "aureola",
+        "padrao": "liso",
+        "cor_principal": "#7fd6ff",
+        "cor_secundaria": "#283593"
+      }
+    },
+    {
+      "id": "peixe_balao_boco",
+      "nome": "Peixe-Balão Bocó",
+      "elemento": "agua",
+      "raridade": "raro",
+      "descricao": "Incha de orgulho por qualquer bobeira.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "brilhantes",
+        "boca": "sorriso",
+        "acessorio": "nenhum",
+        "padrao": "listras",
+        "cor_principal": "#64b5f6",
+        "cor_secundaria": "#00695c"
+      }
+    },
+    {
+      "id": "estrela_do_mar_estilosa",
+      "nome": "Estrela-do-Mar Estilosa",
+      "elemento": "agua",
+      "raridade": "raro",
+      "descricao": "Brilha na areia e posa para fotos.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "antenas",
+        "padrao": "manchas",
+        "cor_principal": "#3b82f6",
+        "cor_secundaria": "#a5f3fc"
+      }
+    },
+    {
+      "id": "foca_fanfarrona",
+      "nome": "Foca Fanfarrona",
+      "elemento": "agua",
+      "raridade": "raro",
+      "descricao": "Aplaude a si mesma depois de cada mergulho.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "nenhum",
+        "padrao": "estrelado",
+        "cor_principal": "#64b5f6",
+        "cor_secundaria": "#00695c"
+      }
+    },
+    {
+      "id": "esquilo_estatico",
+      "nome": "Esquilo Estático",
+      "elemento": "eletrico",
+      "raridade": "raro",
+      "descricao": "Esfrega o rabo no tapete e vira um para-raios.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#ffee58",
+        "cor_secundaria": "#e65100"
+      }
+    },
+    {
+      "id": "ratinho_bateria",
+      "nome": "Ratinho Bateria",
+      "elemento": "eletrico",
+      "raridade": "raro",
+      "descricao": "Funciona por horas e dorme no carregador.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "raios",
+        "padrao": "manchas",
+        "cor_principal": "#ffd600",
+        "cor_secundaria": "#37474f"
+      }
+    },
+    {
+      "id": "raposa_curto_circuito",
+      "nome": "Raposa Curto-Circuito",
+      "elemento": "eletrico",
+      "raridade": "raro",
+      "descricao": "Esperta demais, faz até a luz piscar.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "raios",
+        "padrao": "liso",
+        "cor_principal": "#fff176",
+        "cor_secundaria": "#6a1b9a"
+      }
+    },
+    {
+      "id": "passarinho_fio_desencapado",
+      "nome": "Passarinho Fio-Desencapado",
+      "elemento": "eletrico",
+      "raridade": "raro",
+      "descricao": "Pousa em qualquer fio e sai cantando.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "ciclope",
+        "boca": "aberta",
+        "acessorio": "antenas",
+        "padrao": "gradiente",
+        "cor_principal": "#e6ee9c",
+        "cor_secundaria": "#ad1457"
+      }
+    },
+    {
+      "id": "cabo_cabeca_quente",
+      "nome": "Cabo Cabeça-Quente",
+      "elemento": "eletrico",
+      "raridade": "raro",
+      "descricao": "Está sempre enrolado e sempre ligado.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "neutra",
+        "acessorio": "raios",
+        "padrao": "listras",
+        "cor_principal": "#ffee58",
+        "cor_secundaria": "#e65100"
+      }
+    },
+    {
+      "id": "raposa_matreira",
+      "nome": "Raposa Matreira",
+      "elemento": "fera",
+      "raridade": "raro",
+      "descricao": "Já trocou o próprio rabo por um sorriso.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "ciclope",
+        "boca": "aberta",
+        "acessorio": "chifres",
+        "padrao": "listras",
+        "cor_principal": "#e0a96d",
+        "cor_secundaria": "#6d4c41"
+      }
+    },
+    {
+      "id": "coruja_conselheira",
+      "nome": "Coruja Conselheira",
+      "elemento": "fera",
+      "raridade": "raro",
+      "descricao": "Dá bons conselhos, mas só de madrugada.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "manchas",
+        "cor_principal": "#f2c28a",
+        "cor_secundaria": "#8d4e2a"
+      }
+    },
+    {
+      "id": "texugo_teimoso",
+      "nome": "Texugo Teimoso",
+      "elemento": "fera",
+      "raridade": "raro",
+      "descricao": "Nunca recua e nunca explica.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "ciclope",
+        "boca": "aberta",
+        "acessorio": "asas",
+        "padrao": "listras",
+        "cor_principal": "#a1887f",
+        "cor_secundaria": "#3e2723"
+      }
+    },
+    {
+      "id": "lince_ladino",
+      "nome": "Lince Ladino",
+      "elemento": "fera",
+      "raridade": "raro",
+      "descricao": "Enxerga longe e faz pose de detetive.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "brilhantes",
+        "boca": "neutra",
+        "acessorio": "chifres",
+        "padrao": "manchas",
+        "cor_principal": "#a1887f",
+        "cor_secundaria": "#3e2723"
+      }
+    },
+    {
+      "id": "gamba_gala",
+      "nome": "Gambá Gala",
+      "elemento": "fera",
+      "raridade": "raro",
+      "descricao": "Chega em festas e todo mundo abre espaço.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "chifres",
+        "padrao": "listras",
+        "cor_principal": "#d9a066",
+        "cor_secundaria": "#2f4f4f"
+      }
+    },
+    {
+      "id": "pimentao_explosivo",
+      "nome": "Pimentão Explosivo",
+      "elemento": "fogo",
+      "raridade": "raro",
+      "descricao": "Quem encosta nele chora e depois agradece.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "ciclope",
+        "boca": "sorriso",
+        "acessorio": "antenas",
+        "padrao": "manchas",
+        "cor_principal": "#ff6b35",
+        "cor_secundaria": "#b71c1c"
+      }
+    },
+    {
+      "id": "raposa_fagulha",
+      "nome": "Raposa Fagulha",
+      "elemento": "fogo",
+      "raridade": "raro",
+      "descricao": "Deixa uma trilha de faíscas e nenhuma pista.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#ff9800",
+        "cor_secundaria": "#4e1b0e"
+      }
+    },
+    {
+      "id": "lagartixa_lava",
+      "nome": "Lagartixa Lava",
+      "elemento": "fogo",
+      "raridade": "raro",
+      "descricao": "Toma sol em magma e acha pouco.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "brilhantes",
+        "boca": "dentes",
+        "acessorio": "raios",
+        "padrao": "estrelado",
+        "cor_principal": "#ef5350",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "bruxinho_isqueiro",
+      "nome": "Bruxinho Isqueiro",
+      "elemento": "fogo",
+      "raridade": "raro",
+      "descricao": "Acende qualquer coisa com um estalo de dedos.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "orelhas",
+        "padrao": "listras",
+        "cor_principal": "#ff4d4d",
+        "cor_secundaria": "#7f1d1d"
+      }
+    },
+    {
+      "id": "carvaozinho_ninja",
+      "nome": "Carvãozinho Ninja",
+      "elemento": "fogo",
+      "raridade": "raro",
+      "descricao": "Silencioso, escuro e quentíssimo.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "brilhantes",
+        "boca": "lingua",
+        "acessorio": "orelhas",
+        "padrao": "listras",
+        "cor_principal": "#ffb347",
+        "cor_secundaria": "#d84315"
+      }
+    },
+    {
+      "id": "fantasminha_faceiro",
+      "nome": "Fantasminha Faceiro",
+      "elemento": "mistico",
+      "raridade": "raro",
+      "descricao": "Assusta só de leve, para fazer amigos.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "aureola",
+        "padrao": "estrelado",
+        "cor_principal": "#ce93d8",
+        "cor_secundaria": "#283593"
+      }
+    },
+    {
+      "id": "bola_de_cristal_bisbilhoteira",
+      "nome": "Bola de Cristal Bisbilhoteira",
+      "elemento": "mistico",
+      "raridade": "raro",
+      "descricao": "Vê tudo e adora contar.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "brilhantes",
+        "boca": "dentes",
+        "acessorio": "nenhum",
+        "padrao": "listras",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "chapeu_encantado",
+      "nome": "Chapéu Encantado",
+      "elemento": "mistico",
+      "raridade": "raro",
+      "descricao": "Tira coelhos de lugares que nem existem.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "antenas",
+        "padrao": "liso",
+        "cor_principal": "#e07cd8",
+        "cor_secundaria": "#512da8"
+      }
+    },
+    {
+      "id": "lamparina_lunar",
+      "nome": "Lamparina Lunar",
+      "elemento": "mistico",
+      "raridade": "raro",
+      "descricao": "Acende com luz de lua e some ao amanhecer.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "felizes",
+        "boca": "lingua",
+        "acessorio": "chifres",
+        "padrao": "gradiente",
+        "cor_principal": "#f48fb1",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "grimorio_gaiato",
+      "nome": "Grimório Gaiato",
+      "elemento": "mistico",
+      "raridade": "raro",
+      "descricao": "Seus feitiços sempre saem com uma piada.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "antenas",
+        "padrao": "gradiente",
+        "cor_principal": "#ce93d8",
+        "cor_secundaria": "#283593"
+      }
+    },
+    {
+      "id": "cacto_cantor",
+      "nome": "Cacto Cantor",
+      "elemento": "natureza",
+      "raridade": "raro",
+      "descricao": "Desafina, mas espeta quem pedir bis.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#3fae7a",
+        "cor_secundaria": "#1b5e46"
+      }
+    },
+    {
+      "id": "margarida_ninja",
+      "nome": "Margarida Ninja",
+      "elemento": "natureza",
+      "raridade": "raro",
+      "descricao": "Some entre as pétalas e sempre acerta o bem-me-quer.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "ciclope",
+        "boca": "aberta",
+        "acessorio": "folhas",
+        "padrao": "estrelado",
+        "cor_principal": "#b5d84a",
+        "cor_secundaria": "#4f7a1f"
+      }
+    },
+    {
+      "id": "musgo_malandro",
+      "nome": "Musgo Malandro",
+      "elemento": "natureza",
+      "raridade": "raro",
+      "descricao": "Cresce onde não foi chamado e ainda faz pose.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "folhas",
+        "padrao": "estrelado",
+        "cor_principal": "#7ed957",
+        "cor_secundaria": "#f2c94c"
+      }
+    },
+    {
+      "id": "girassol_solar",
+      "nome": "Girassol Solar",
+      "elemento": "natureza",
+      "raridade": "raro",
+      "descricao": "Acompanha o sol e acha que é ele quem manda.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "brilhantes",
+        "boca": "sorriso",
+        "acessorio": "antenas",
+        "padrao": "manchas",
+        "cor_principal": "#4caf8f",
+        "cor_secundaria": "#e8f5a3"
+      }
+    },
+    {
+      "id": "samambaiao",
+      "nome": "Samambaião",
+      "elemento": "natureza",
+      "raridade": "raro",
+      "descricao": "Uma samambaia grandona que dá abraços de folha.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "felizes",
+        "boca": "lingua",
+        "acessorio": "folhas",
+        "padrao": "liso",
+        "cor_principal": "#3fae7a",
+        "cor_secundaria": "#1b5e46"
+      }
+    },
+    {
+      "id": "gotinha_guerreira",
+      "nome": "Gotinha Guerreira",
+      "elemento": "agua",
+      "raridade": "incomum",
+      "descricao": "Pequena, mas já derrubou muita pedra.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "redondos",
+        "boca": "dentes",
+        "acessorio": "nenhum",
+        "padrao": "listras",
+        "cor_principal": "#7fd6ff",
+        "cor_secundaria": "#283593"
+      }
+    },
+    {
+      "id": "sapo_chuvisco",
+      "nome": "Sapo Chuvisco",
+      "elemento": "agua",
+      "raridade": "incomum",
+      "descricao": "Só sai quando o céu começa a pingar.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "bravos",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "estrelado",
+        "cor_principal": "#80deea",
+        "cor_secundaria": "#4527a0"
+      }
+    },
+    {
+      "id": "bolha_brava",
+      "nome": "Bolha Brava",
+      "elemento": "agua",
+      "raridade": "incomum",
+      "descricao": "Estoura de raiva e depois se refaz.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "felizes",
+        "boca": "dentes",
+        "acessorio": "antenas",
+        "padrao": "listras",
+        "cor_principal": "#4aa8ff",
+        "cor_secundaria": "#1565c0"
+      }
+    },
+    {
+      "id": "patinho_piscina",
+      "nome": "Patinho Piscina",
+      "elemento": "agua",
+      "raridade": "incomum",
+      "descricao": "Boia sem rumo, mas sempre sorrindo.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "felizes",
+        "boca": "dentes",
+        "acessorio": "nenhum",
+        "padrao": "gradiente",
+        "cor_principal": "#4dd0c4",
+        "cor_secundaria": "#1e4e8c"
+      }
+    },
+    {
+      "id": "caramujo_cascudo",
+      "nome": "Caramujo Cascudo",
+      "elemento": "agua",
+      "raridade": "incomum",
+      "descricao": "Dentro da concha, ninguém o pega.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "sonolentos",
+        "boca": "sorriso",
+        "acessorio": "antenas",
+        "padrao": "estrelado",
+        "cor_principal": "#3b82f6",
+        "cor_secundaria": "#a5f3fc"
+      }
+    },
+    {
+      "id": "pingo_pulante",
+      "nome": "Pingo Pulante",
+      "elemento": "agua",
+      "raridade": "incomum",
+      "descricao": "Cai do telhado e já quer cair de novo.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "redondos",
+        "boca": "sorriso",
+        "acessorio": "nenhum",
+        "padrao": "manchas",
+        "cor_principal": "#4dd0c4",
+        "cor_secundaria": "#1e4e8c"
+      }
+    },
+    {
+      "id": "peixinho_poca",
+      "nome": "Peixinho Poça",
+      "elemento": "agua",
+      "raridade": "incomum",
+      "descricao": "Acha que a poça da esquina é o oceano.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "nenhum",
+        "padrao": "manchas",
+        "cor_principal": "#7fd6ff",
+        "cor_secundaria": "#283593"
+      }
+    },
+    {
+      "id": "pilhinha_pulante",
+      "nome": "Pilhinha Pulante",
+      "elemento": "eletrico",
+      "raridade": "incomum",
+      "descricao": "Salta de bolso em bolso procurando controle remoto.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "raios",
+        "padrao": "listras",
+        "cor_principal": "#e6ee9c",
+        "cor_secundaria": "#ad1457"
+      }
+    },
+    {
+      "id": "fiozinho_faisca",
+      "nome": "Fiozinho Faísca",
+      "elemento": "eletrico",
+      "raridade": "incomum",
+      "descricao": "Solta fagulhas ao menor sinal de susto.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#f7e04a",
+        "cor_secundaria": "#1565c0"
+      }
+    },
+    {
+      "id": "tomadinha_curiosa",
+      "nome": "Tomadinha Curiosa",
+      "elemento": "eletrico",
+      "raridade": "incomum",
+      "descricao": "Vive querendo conectar todo mundo.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "felizes",
+        "boca": "lingua",
+        "acessorio": "raios",
+        "padrao": "listras",
+        "cor_principal": "#ffd600",
+        "cor_secundaria": "#37474f"
+      }
+    },
+    {
+      "id": "lampada_lerda",
+      "nome": "Lâmpada Lerda",
+      "elemento": "eletrico",
+      "raridade": "incomum",
+      "descricao": "Demora a acender, mas ilumina bonito.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "listras",
+        "cor_principal": "#f7e04a",
+        "cor_secundaria": "#1565c0"
+      }
+    },
+    {
+      "id": "choquinho",
+      "nome": "Choquinho",
+      "elemento": "eletrico",
+      "raridade": "incomum",
+      "descricao": "Dá um beliscão elétrico e foge rindo.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "antenas",
+        "padrao": "manchas",
+        "cor_principal": "#ffd600",
+        "cor_secundaria": "#37474f"
+      }
+    },
+    {
+      "id": "ventilador_vaidoso",
+      "nome": "Ventilador Vaidoso",
+      "elemento": "eletrico",
+      "raridade": "incomum",
+      "descricao": "Gira só para ser notado.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "redondos",
+        "boca": "lingua",
+        "acessorio": "raios",
+        "padrao": "estrelado",
+        "cor_principal": "#ffee58",
+        "cor_secundaria": "#e65100"
+      }
+    },
+    {
+      "id": "disjuntor_distraido",
+      "nome": "Disjuntor Distraído",
+      "elemento": "eletrico",
+      "raridade": "incomum",
+      "descricao": "Desliga tudo e não sabe por quê.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#d4ff4a",
+        "cor_secundaria": "#455a64"
+      }
+    },
+    {
+      "id": "gatinho_garrinha",
+      "nome": "Gatinho Garrinha",
+      "elemento": "fera",
+      "raridade": "incomum",
+      "descricao": "Arranha de brincadeira e foge de verdade.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "orelhas",
+        "padrao": "gradiente",
+        "cor_principal": "#e57f4a",
+        "cor_secundaria": "#4e342e"
+      }
+    },
+    {
+      "id": "caozinho_cabeludo",
+      "nome": "Cãozinho Cabeludo",
+      "elemento": "fera",
+      "raridade": "incomum",
+      "descricao": "Tem tanto pelo que ninguém acha os olhos.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "orelhas",
+        "padrao": "gradiente",
+        "cor_principal": "#a1887f",
+        "cor_secundaria": "#3e2723"
+      }
+    },
+    {
+      "id": "porquinho_panca",
+      "nome": "Porquinho Pança",
+      "elemento": "fera",
+      "raridade": "incomum",
+      "descricao": "Barriga cheia, coração maior.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "sonolentos",
+        "boca": "sorriso",
+        "acessorio": "asas",
+        "padrao": "estrelado",
+        "cor_principal": "#a1887f",
+        "cor_secundaria": "#3e2723"
+      }
+    },
+    {
+      "id": "capivara_calma",
+      "nome": "Capivara Calma",
+      "elemento": "fera",
+      "raridade": "incomum",
+      "descricao": "Nada abala o seu bom humor.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "chifres",
+        "padrao": "listras",
+        "cor_principal": "#b0b0b0",
+        "cor_secundaria": "#37474f"
+      }
+    },
+    {
+      "id": "coelho_corredor",
+      "nome": "Coelho Corredor",
+      "elemento": "fera",
+      "raridade": "incomum",
+      "descricao": "Chega antes de partir.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#a1887f",
+        "cor_secundaria": "#3e2723"
+      }
+    },
+    {
+      "id": "pato_palhaco",
+      "nome": "Pato Palhaço",
+      "elemento": "fera",
+      "raridade": "incomum",
+      "descricao": "Faz piada até na lagoa.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "redondos",
+        "boca": "sorriso",
+        "acessorio": "asas",
+        "padrao": "listras",
+        "cor_principal": "#e0a96d",
+        "cor_secundaria": "#6d4c41"
+      }
+    },
+    {
+      "id": "tatu_teimoso",
+      "nome": "Tatu Teimoso",
+      "elemento": "fera",
+      "raridade": "incomum",
+      "descricao": "Enrola-se e não sai por nada.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "bravos",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "listras",
+        "cor_principal": "#e57f4a",
+        "cor_secundaria": "#4e342e"
+      }
+    },
+    {
+      "id": "fogareiro_sorridente",
+      "nome": "Fogareiro Sorridente",
+      "elemento": "fogo",
+      "raridade": "incomum",
+      "descricao": "Aquece o coração e também o café.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "redondos",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "estrelado",
+        "cor_principal": "#ff9800",
+        "cor_secundaria": "#4e1b0e"
+      }
+    },
+    {
+      "id": "vela_valente",
+      "nome": "Vela Valente",
+      "elemento": "fogo",
+      "raridade": "incomum",
+      "descricao": "Enfrenta o vento sem piscar.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#ef5350",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "salsicha_flamejante",
+      "nome": "Salsicha Flamejante",
+      "elemento": "fogo",
+      "raridade": "incomum",
+      "descricao": "Está sempre no ponto e sempre no fogo.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "sonolentos",
+        "boca": "dentes",
+        "acessorio": "antenas",
+        "padrao": "estrelado",
+        "cor_principal": "#f9a825",
+        "cor_secundaria": "#bf360c"
+      }
+    },
+    {
+      "id": "brasinha_briguenta",
+      "nome": "Brasinha Briguenta",
+      "elemento": "fogo",
+      "raridade": "incomum",
+      "descricao": "Brilha de raiva por qualquer bobagem.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "sonolentos",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "manchas",
+        "cor_principal": "#ff6b35",
+        "cor_secundaria": "#b71c1c"
+      }
+    },
+    {
+      "id": "torradinha_quente",
+      "nome": "Torradinha Quente",
+      "elemento": "fogo",
+      "raridade": "incomum",
+      "descricao": "Pula do nada e assusta o café da manhã.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "sonolentos",
+        "boca": "aberta",
+        "acessorio": "antenas",
+        "padrao": "estrelado",
+        "cor_principal": "#ff4d4d",
+        "cor_secundaria": "#7f1d1d"
+      }
+    },
+    {
+      "id": "fosforo_fanfarrao",
+      "nome": "Fósforo Fanfarrão",
+      "elemento": "fogo",
+      "raridade": "incomum",
+      "descricao": "Vive se gabando de acender o mundo.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "manchas",
+        "cor_principal": "#e53935",
+        "cor_secundaria": "#ffe082"
+      }
+    },
+    {
+      "id": "pocao_pegadinha",
+      "nome": "Poção Pegadinha",
+      "elemento": "mistico",
+      "raridade": "incomum",
+      "descricao": "Troca de cor só para confundir o freguês.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "redondos",
+        "boca": "neutra",
+        "acessorio": "aureola",
+        "padrao": "estrelado",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "vela_vidente",
+      "nome": "Vela Vidente",
+      "elemento": "mistico",
+      "raridade": "incomum",
+      "descricao": "A chama revela o que vem depois.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "bravos",
+        "boca": "aberta",
+        "acessorio": "aureola",
+        "padrao": "manchas",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "espelho_espertinho",
+      "nome": "Espelho Espertinho",
+      "elemento": "mistico",
+      "raridade": "incomum",
+      "descricao": "Mostra o que você quer ver, nunca o que precisa.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "bravos",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "listras",
+        "cor_principal": "#a389f4",
+        "cor_secundaria": "#00695c"
+      }
+    },
+    {
+      "id": "cartola_curiosa",
+      "nome": "Cartola Curiosa",
+      "elemento": "mistico",
+      "raridade": "incomum",
+      "descricao": "Pula da cabeça do mago para espiar o mundo.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "felizes",
+        "boca": "lingua",
+        "acessorio": "nenhum",
+        "padrao": "estrelado",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "taro_travesso",
+      "nome": "Tarô Travesso",
+      "elemento": "mistico",
+      "raridade": "incomum",
+      "descricao": "Embaralha o destino só pela graça.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "redondos",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "gradiente",
+        "cor_principal": "#e07cd8",
+        "cor_secundaria": "#512da8"
+      }
+    },
+    {
+      "id": "lanterna_lunatica",
+      "nome": "Lanterna Lunática",
+      "elemento": "mistico",
+      "raridade": "incomum",
+      "descricao": "Brilha mais quando ninguém está olhando.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "antenas",
+        "padrao": "liso",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "runica_rabugenta",
+      "nome": "Rúnica Rabugenta",
+      "elemento": "mistico",
+      "raridade": "incomum",
+      "descricao": "Cada letra é uma reclamação mágica.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "bravos",
+        "boca": "dentes",
+        "acessorio": "coroa",
+        "padrao": "gradiente",
+        "cor_principal": "#e07cd8",
+        "cor_secundaria": "#512da8"
+      }
+    },
+    {
+      "id": "brocolinho_bravo",
+      "nome": "Brócolinho Bravo",
+      "elemento": "natureza",
+      "raridade": "incomum",
+      "descricao": "Pequeno, verde e com cara de poucos amigos.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "bravos",
+        "boca": "lingua",
+        "acessorio": "folhas",
+        "padrao": "manchas",
+        "cor_principal": "#b5d84a",
+        "cor_secundaria": "#4f7a1f"
+      }
+    },
+    {
+      "id": "folhinha_voadora",
+      "nome": "Folhinha Voadora",
+      "elemento": "natureza",
+      "raridade": "incomum",
+      "descricao": "Vive pegando carona em qualquer ventinho.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "redondos",
+        "boca": "lingua",
+        "acessorio": "folhas",
+        "padrao": "estrelado",
+        "cor_principal": "#3fae7a",
+        "cor_secundaria": "#1b5e46"
+      }
+    },
+    {
+      "id": "tomatinho_rolante",
+      "nome": "Tomatinho Rolante",
+      "elemento": "natureza",
+      "raridade": "incomum",
+      "descricao": "Rola ladeira abaixo rindo de si mesmo.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "redondos",
+        "boca": "lingua",
+        "acessorio": "antenas",
+        "padrao": "manchas",
+        "cor_principal": "#5fbf4a",
+        "cor_secundaria": "#2e7d32"
+      }
+    },
+    {
+      "id": "pinhaozinho",
+      "nome": "Pinhãozinho",
+      "elemento": "natureza",
+      "raridade": "incomum",
+      "descricao": "Esconde-se em pinhas e solta risadinhas.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "redondos",
+        "boca": "dentes",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#5fbf4a",
+        "cor_secundaria": "#2e7d32"
+      }
+    },
+    {
+      "id": "trevo_sortudo",
+      "nome": "Trevo Sortudo",
+      "elemento": "natureza",
+      "raridade": "incomum",
+      "descricao": "Quem o encontra jura que o dia melhora.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "felizes",
+        "boca": "lingua",
+        "acessorio": "folhas",
+        "padrao": "manchas",
+        "cor_principal": "#8bd450",
+        "cor_secundaria": "#3b6e22"
+      }
+    },
+    {
+      "id": "abobora_mal_humorada",
+      "nome": "Abóbora Mal-Humorada",
+      "elemento": "natureza",
+      "raridade": "incomum",
+      "descricao": "Acorda azeda, mas é doce por dentro.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "folhas",
+        "padrao": "listras",
+        "cor_principal": "#a3d977",
+        "cor_secundaria": "#c2185b"
+      }
+    },
+    {
+      "id": "gotinha_timida",
+      "nome": "Gotinha Tímida",
+      "elemento": "agua",
+      "raridade": "comum",
+      "descricao": "Escorre pela janela para não ser vista.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "felizes",
+        "boca": "lingua",
+        "acessorio": "aureola",
+        "padrao": "liso",
+        "cor_principal": "#90caf9",
+        "cor_secundaria": "#0d47a1"
+      }
+    },
+    {
+      "id": "poca_pensativa",
+      "nome": "Poça Pensativa",
+      "elemento": "agua",
+      "raridade": "comum",
+      "descricao": "Reflete sobre a vida e sobre as nuvens.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "sonolentos",
+        "boca": "lingua",
+        "acessorio": "aureola",
+        "padrao": "listras",
+        "cor_principal": "#29b6f6",
+        "cor_secundaria": "#ffe082"
+      }
+    },
+    {
+      "id": "bolhinha",
+      "nome": "Bolhinha",
+      "elemento": "agua",
+      "raridade": "comum",
+      "descricao": "Flutua leve e estoura com um beijinho.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "sonolentos",
+        "boca": "aberta",
+        "acessorio": "antenas",
+        "padrao": "manchas",
+        "cor_principal": "#3b82f6",
+        "cor_secundaria": "#a5f3fc"
+      }
+    },
+    {
+      "id": "girino_gordinho",
+      "nome": "Girino Gordinho",
+      "elemento": "agua",
+      "raridade": "comum",
+      "descricao": "Ainda sonha em virar sapo.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "sonolentos",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "manchas",
+        "cor_principal": "#7fd6ff",
+        "cor_secundaria": "#283593"
+      }
+    },
+    {
+      "id": "chuvisquinho",
+      "nome": "Chuvisquinho",
+      "elemento": "agua",
+      "raridade": "comum",
+      "descricao": "Cai devagarzinho para não incomodar.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "aureola",
+        "padrao": "gradiente",
+        "cor_principal": "#90caf9",
+        "cor_secundaria": "#0d47a1"
+      }
+    },
+    {
+      "id": "copo_cheio_feliz",
+      "nome": "Copo Cheio Feliz",
+      "elemento": "agua",
+      "raridade": "comum",
+      "descricao": "Nunca está meio vazio.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "aureola",
+        "padrao": "listras",
+        "cor_principal": "#80deea",
+        "cor_secundaria": "#4527a0"
+      }
+    },
+    {
+      "id": "razinha_orvalho",
+      "nome": "Rãzinha Orvalho",
+      "elemento": "agua",
+      "raridade": "comum",
+      "descricao": "Acorda molhada e de bom humor.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "redondos",
+        "boca": "dentes",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#80deea",
+        "cor_secundaria": "#4527a0"
+      }
+    },
+    {
+      "id": "orvalhinho",
+      "nome": "Orvalhinho",
+      "elemento": "agua",
+      "raridade": "comum",
+      "descricao": "Brilha na folha logo cedo.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "sonolentos",
+        "boca": "neutra",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#5ad1e6",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "pilhazinha",
+      "nome": "Pilhazinha",
+      "elemento": "eletrico",
+      "raridade": "comum",
+      "descricao": "Gasta toda a energia numa corridinha.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "redondos",
+        "boca": "dentes",
+        "acessorio": "raios",
+        "padrao": "gradiente",
+        "cor_principal": "#ffee58",
+        "cor_secundaria": "#e65100"
+      }
+    },
+    {
+      "id": "faisquinha",
+      "nome": "Faisquinha",
+      "elemento": "eletrico",
+      "raridade": "comum",
+      "descricao": "Brilha um segundinho e some.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "antenas",
+        "padrao": "liso",
+        "cor_principal": "#ffe94a",
+        "cor_secundaria": "#f57f17"
+      }
+    },
+    {
+      "id": "tomadinha",
+      "nome": "Tomadinha",
+      "elemento": "eletrico",
+      "raridade": "comum",
+      "descricao": "Quer ser plugada em tudo.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "sonolentos",
+        "boca": "neutra",
+        "acessorio": "antenas",
+        "padrao": "estrelado",
+        "cor_principal": "#fdd835",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "fiapo_eletrico",
+      "nome": "Fiapo Elétrico",
+      "elemento": "eletrico",
+      "raridade": "comum",
+      "descricao": "Tão fino que passa por qualquer fresta.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "sonolentos",
+        "boca": "sorriso",
+        "acessorio": "antenas",
+        "padrao": "estrelado",
+        "cor_principal": "#e6ee9c",
+        "cor_secundaria": "#ad1457"
+      }
+    },
+    {
+      "id": "lampadinha",
+      "nome": "Lampadinha",
+      "elemento": "eletrico",
+      "raridade": "comum",
+      "descricao": "Acende quando tem uma ideia pequena.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "felizes",
+        "boca": "neutra",
+        "acessorio": "raios",
+        "padrao": "listras",
+        "cor_principal": "#fdd835",
+        "cor_secundaria": "#01579b"
+      }
+    },
+    {
+      "id": "cocega_eletrica",
+      "nome": "Cócega Elétrica",
+      "elemento": "eletrico",
+      "raridade": "comum",
+      "descricao": "Formiga na mão de quem encosta.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "redondos",
+        "boca": "aberta",
+        "acessorio": "nenhum",
+        "padrao": "listras",
+        "cor_principal": "#fff176",
+        "cor_secundaria": "#6a1b9a"
+      }
+    },
+    {
+      "id": "pulga_pisca_pisca",
+      "nome": "Pulga Pisca-Pisca",
+      "elemento": "eletrico",
+      "raridade": "comum",
+      "descricao": "Salta e brilha ao mesmo tempo.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "redondos",
+        "boca": "lingua",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#ffee58",
+        "cor_secundaria": "#e65100"
+      }
+    },
+    {
+      "id": "led_sonolento",
+      "nome": "Led Sonolento",
+      "elemento": "eletrico",
+      "raridade": "comum",
+      "descricao": "Pisca devagar, quase dormindo.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "sonolentos",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#d4ff4a",
+        "cor_secundaria": "#455a64"
+      }
+    },
+    {
+      "id": "gatinho_soneca",
+      "nome": "Gatinho Soneca",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Dorme dezesseis horas e acorda com fome.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "sonolentos",
+        "boca": "lingua",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#8d6e63",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "cachorrinho_pula_pula",
+      "nome": "Cachorrinho Pula-Pula",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Pula só de ouvir o seu nome.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "felizes",
+        "boca": "lingua",
+        "acessorio": "asas",
+        "padrao": "liso",
+        "cor_principal": "#bcaaa4",
+        "cor_secundaria": "#bf360c"
+      }
+    },
+    {
+      "id": "ratinho_rabisco",
+      "nome": "Ratinho Rabisco",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Deixa desenhos de patinhas por todo canto.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "sonolentos",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "manchas",
+        "cor_principal": "#cfd8dc",
+        "cor_secundaria": "#455a64"
+      }
+    },
+    {
+      "id": "pintinho_pipoca",
+      "nome": "Pintinho Pipoca",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Pula como pipoca e faz piu-piu.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "redondos",
+        "boca": "neutra",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#e0a96d",
+        "cor_secundaria": "#6d4c41"
+      }
+    },
+    {
+      "id": "ovelhinha_fofa",
+      "nome": "Ovelhinha Fofa",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Conta a si mesma para pegar no sono.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#b0b0b0",
+        "cor_secundaria": "#37474f"
+      }
+    },
+    {
+      "id": "hamster_hesitante",
+      "nome": "Hamster Hesitante",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Corre na roda e nunca decide aonde ir.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "felizes",
+        "boca": "dentes",
+        "acessorio": "orelhas",
+        "padrao": "listras",
+        "cor_principal": "#d9a066",
+        "cor_secundaria": "#2f4f4f"
+      }
+    },
+    {
+      "id": "pombo_pensativo",
+      "nome": "Pombo Pensativo",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Anda em círculos refletindo sobre migalhas.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "redondos",
+        "boca": "lingua",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#c98a4b",
+        "cor_secundaria": "#5d3a1a"
+      }
+    },
+    {
+      "id": "vaquinha_vaidosa",
+      "nome": "Vaquinha Vaidosa",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Admira as próprias manchas todo dia.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "redondos",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#b0b0b0",
+        "cor_secundaria": "#37474f"
+      }
+    },
+    {
+      "id": "coelhinho_coto",
+      "nome": "Coelhinho Cotó",
+      "elemento": "fera",
+      "raridade": "comum",
+      "descricao": "Tem um rabinho minúsculo e muito orgulho dele.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "sonolentos",
+        "boca": "aberta",
+        "acessorio": "nenhum",
+        "padrao": "estrelado",
+        "cor_principal": "#bcaaa4",
+        "cor_secundaria": "#bf360c"
+      }
+    },
+    {
+      "id": "faisca_fofa",
+      "nome": "Faísca Fofa",
+      "elemento": "fogo",
+      "raridade": "comum",
+      "descricao": "Pula de um lado para o outro soltando estalinhos.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "redondos",
+        "boca": "lingua",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#ef5350",
+        "cor_secundaria": "#ffcc80"
+      }
+    },
+    {
+      "id": "pipoquinha",
+      "nome": "Pipoquinha",
+      "elemento": "fogo",
+      "raridade": "comum",
+      "descricao": "Estoura de alegria sem aviso.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "redondos",
+        "boca": "neutra",
+        "acessorio": "raios",
+        "padrao": "manchas",
+        "cor_principal": "#f9a825",
+        "cor_secundaria": "#bf360c"
+      }
+    },
+    {
+      "id": "chamitcho",
+      "nome": "Chamitcho",
+      "elemento": "fogo",
+      "raridade": "comum",
+      "descricao": "Uma chaminha que adora fazer cócegas.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "sonolentos",
+        "boca": "dentes",
+        "acessorio": "antenas",
+        "padrao": "gradiente",
+        "cor_principal": "#ff7043",
+        "cor_secundaria": "#fff176"
+      }
+    },
+    {
+      "id": "cinzinha",
+      "nome": "Cinzinha",
+      "elemento": "fogo",
+      "raridade": "comum",
+      "descricao": "Sobrou do fogo e ficou por perto.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "raios",
+        "padrao": "listras",
+        "cor_principal": "#ff7043",
+        "cor_secundaria": "#fff176"
+      }
+    },
+    {
+      "id": "churrasquinho",
+      "nome": "Churrasquinho",
+      "elemento": "fogo",
+      "raridade": "comum",
+      "descricao": "Sempre cheirando a domingo.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "felizes",
+        "boca": "dentes",
+        "acessorio": "orelhas",
+        "padrao": "estrelado",
+        "cor_principal": "#ff7043",
+        "cor_secundaria": "#fff176"
+      }
+    },
+    {
+      "id": "tochinha_timida",
+      "nome": "Tochinha Tímida",
+      "elemento": "fogo",
+      "raridade": "comum",
+      "descricao": "Só acende quando ninguém está olhando.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "redondos",
+        "boca": "lingua",
+        "acessorio": "antenas",
+        "padrao": "estrelado",
+        "cor_principal": "#ff4d4d",
+        "cor_secundaria": "#7f1d1d"
+      }
+    },
+    {
+      "id": "ovo_frito_feliz",
+      "nome": "Ovo Frito Feliz",
+      "elemento": "fogo",
+      "raridade": "comum",
+      "descricao": "Sorri com a gema para o céu.",
+      "aparencia": {
+        "corpo": "chama",
+        "olhos": "sonolentos",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "listras",
+        "cor_principal": "#ff4d4d",
+        "cor_secundaria": "#7f1d1d"
+      }
+    },
+    {
+      "id": "paozinho_torrado",
+      "nome": "Pãozinho Torrado",
+      "elemento": "fogo",
+      "raridade": "comum",
+      "descricao": "Crocante por fora e quentinho por dentro.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "gradiente",
+        "cor_principal": "#ff4d4d",
+        "cor_secundaria": "#7f1d1d"
+      }
+    },
+    {
+      "id": "fantasminha_bu",
+      "nome": "Fantasminha Bu",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Diz bu, mas ele mesmo se assusta.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "sonolentos",
+        "boca": "neutra",
+        "acessorio": "coroa",
+        "padrao": "liso",
+        "cor_principal": "#d17df0",
+        "cor_secundaria": "#311b92"
+      }
+    },
+    {
+      "id": "estrelinha_sonolenta",
+      "nome": "Estrelinha Sonolenta",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Cai do céu cochilando.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "sonolentos",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "listras",
+        "cor_principal": "#7e57c2",
+        "cor_secundaria": "#ffe082"
+      }
+    },
+    {
+      "id": "meia_magica",
+      "nome": "Meia Mágica",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Some da gaveta e aparece em outro mundo.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "sonolentos",
+        "boca": "sorriso",
+        "acessorio": "nenhum",
+        "padrao": "liso",
+        "cor_principal": "#e07cd8",
+        "cor_secundaria": "#512da8"
+      }
+    },
+    {
+      "id": "poeirinha_mistica",
+      "nome": "Poeirinha Mística",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Brilha no raio de sol e finge que é feitiço.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "sonolentos",
+        "boca": "neutra",
+        "acessorio": "nenhum",
+        "padrao": "manchas",
+        "cor_principal": "#a389f4",
+        "cor_secundaria": "#00695c"
+      }
+    },
+    {
+      "id": "luazinha",
+      "nome": "Luazinha",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Uma luazinha que mal aprendeu a brilhar.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "redondos",
+        "boca": "sorriso",
+        "acessorio": "aureola",
+        "padrao": "listras",
+        "cor_principal": "#d17df0",
+        "cor_secundaria": "#311b92"
+      }
+    },
+    {
+      "id": "cristalzinho",
+      "nome": "Cristalzinho",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Pequeno, brilhante e cheio de segredos.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "chifres",
+        "padrao": "liso",
+        "cor_principal": "#f48fb1",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "sombrinha",
+      "nome": "Sombrinha",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Segue você por aí, curiosa.",
+      "aparencia": {
+        "corpo": "fantasma",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "aureola",
+        "padrao": "liso",
+        "cor_principal": "#d17df0",
+        "cor_secundaria": "#311b92"
+      }
+    },
+    {
+      "id": "nuvenzinha_nebulosa",
+      "nome": "Nuvenzinha Nebulosa",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Flutua em dúvida sobre onde ir.",
+      "aparencia": {
+        "corpo": "gota",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "chifres",
+        "padrao": "manchas",
+        "cor_principal": "#b57cf0",
+        "cor_secundaria": "#4a148c"
+      }
+    },
+    {
+      "id": "mini_mago_mirim",
+      "nome": "Mini Mago Mirim",
+      "elemento": "mistico",
+      "raridade": "comum",
+      "descricao": "Aprendiz de feitiço, ainda tropeça na capa.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "redondos",
+        "boca": "neutra",
+        "acessorio": "chifres",
+        "padrao": "gradiente",
+        "cor_principal": "#9575cd",
+        "cor_secundaria": "#f8bbd0"
+      }
+    },
+    {
+      "id": "sapo_musgoso",
+      "nome": "Sapo Musgoso",
+      "elemento": "natureza",
+      "raridade": "comum",
+      "descricao": "Coaxa baixinho para não acordar o musgo.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "gradiente",
+        "cor_principal": "#a3d977",
+        "cor_secundaria": "#c2185b"
+      }
+    },
+    {
+      "id": "broto_soneca",
+      "nome": "Broto Soneca",
+      "elemento": "natureza",
+      "raridade": "comum",
+      "descricao": "Cochila o dia inteiro esperando a chuva.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "felizes",
+        "boca": "aberta",
+        "acessorio": "orelhas",
+        "padrao": "manchas",
+        "cor_principal": "#4caf8f",
+        "cor_secundaria": "#e8f5a3"
+      }
+    },
+    {
+      "id": "beterrabinha",
+      "nome": "Beterrabinha",
+      "elemento": "natureza",
+      "raridade": "comum",
+      "descricao": "Fica corada com qualquer elogio.",
+      "aparencia": {
+        "corpo": "broto",
+        "olhos": "redondos",
+        "boca": "aberta",
+        "acessorio": "nenhum",
+        "padrao": "listras",
+        "cor_principal": "#4caf8f",
+        "cor_secundaria": "#e8f5a3"
+      }
+    },
+    {
+      "id": "mudinha_timida",
+      "nome": "Mudinha Tímida",
+      "elemento": "natureza",
+      "raridade": "comum",
+      "descricao": "Esconde-se atrás da própria folha.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "sonolentos",
+        "boca": "sorriso",
+        "acessorio": "folhas",
+        "padrao": "manchas",
+        "cor_principal": "#8bd450",
+        "cor_secundaria": "#3b6e22"
+      }
+    },
+    {
+      "id": "lesma_verdinha",
+      "nome": "Lesma Verdinha",
+      "elemento": "natureza",
+      "raridade": "comum",
+      "descricao": "Chega atrasada, mas sempre chega.",
+      "aparencia": {
+        "corpo": "cristal",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "antenas",
+        "padrao": "manchas",
+        "cor_principal": "#4caf8f",
+        "cor_secundaria": "#e8f5a3"
+      }
+    },
+    {
+      "id": "dente_de_leao_leve",
+      "nome": "Dente-de-Leão Leve",
+      "elemento": "natureza",
+      "raridade": "comum",
+      "descricao": "Faz um desejo a cada espirro.",
+      "aparencia": {
+        "corpo": "nuvem",
+        "olhos": "sonolentos",
+        "boca": "lingua",
+        "acessorio": "orelhas",
+        "padrao": "liso",
+        "cor_principal": "#2e8b57",
+        "cor_secundaria": "#d4f08a"
+      }
+    },
+    {
+      "id": "cenourito",
+      "nome": "Cenourito",
+      "elemento": "natureza",
+      "raridade": "comum",
+      "descricao": "Vive de cabeça para baixo e feliz.",
+      "aparencia": {
+        "corpo": "estrela",
+        "olhos": "felizes",
+        "boca": "dentes",
+        "acessorio": "nenhum",
+        "padrao": "estrelado",
+        "cor_principal": "#5fbf4a",
+        "cor_secundaria": "#2e7d32"
+      }
+    },
+    {
+      "id": "pepino_pensativo",
+      "nome": "Pepino Pensativo",
+      "elemento": "natureza",
+      "raridade": "comum",
+      "descricao": "Pensa muito e não conclui nada.",
+      "aparencia": {
+        "corpo": "blob",
+        "olhos": "felizes",
+        "boca": "sorriso",
+        "acessorio": "folhas",
+        "padrao": "gradiente",
+        "cor_principal": "#b5d84a",
+        "cor_secundaria": "#4f7a1f"
+      }
+    }
+  ]
+}
